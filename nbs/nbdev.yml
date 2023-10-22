@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Economic_Machine_Code"
+  site-url: "https://gmaml.github.io/Economic_Machine_Code"
+  description: "All the code for the Understadning Economic Machine book"
+  repo-branch: main
+  repo-url: "https://github.com/gmaml/Economic_Machine_Code"

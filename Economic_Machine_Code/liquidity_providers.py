@@ -7,6 +7,11 @@ __all__ = ['liquidityproviders', 'CentralBank', 'Treasury']
 class liquidityproviders():
     def __init__(self,name:str):
         self.name = name
+    def __str__(self):
+        return f'{self.name}'
+    
+    __repr__=__str__
+
 
 #class cb_entry():
 #    def __init__(self,name:str='Treasury',amount:float=0,side:str='asset'):

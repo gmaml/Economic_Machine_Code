@@ -33,4 +33,6 @@ d = { 'settings': { 'branch': 'main',
                                                            'Economic_Machine_Code.liquidity_providers.liquidityproviders': ( 'liquidityproviders.html#liquidityproviders',
                                                                                                                              'Economic_Machine_Code/liquidity_providers.py'),
                                                            'Economic_Machine_Code.liquidity_providers.liquidityproviders.__init__': ( 'liquidityproviders.html#liquidityproviders.__init__',
-                                                                                                                                      'Economic_Machine_Code/liquidity_providers.py')}}}
+                                                                                                                                      'Economic_Machine_Code/liquidity_providers.py'),
+                                                           'Economic_Machine_Code.liquidity_providers.liquidityproviders.__str__': ( 'liquidityproviders.html#liquidityproviders.__str__',
+                                                                                                                                     'Economic_Machine_Code/liquidity_providers.py')}}}
